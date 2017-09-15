@@ -39,7 +39,7 @@ My pipeline consisted of below steps:
 Typically an image is plotted as x vs y in image space. In Hough space, an image is plotted as m vs b, where m is slope and b is intercept. 
 Thus, two lines with same slope but different intercepts may appear as below:
 
-![alt text][image2]
+![alt text][image3]
 
 https://en.wikipedia.org/wiki/Hough_transform
 
