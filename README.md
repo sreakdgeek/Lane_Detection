@@ -4,11 +4,15 @@
 
 **Finding Lane Lines on the Road**
 
-This project attempts to detect and annotate lane lines on the road from a Video Stream
-
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
+[image2]: ./examples/lane_detection_pipeline.JPG
+
+This project attempts to detect and annotate lane lines on the road from a Video Stream
+
+![alt text][image1]
+
 
 ---
 
@@ -16,7 +20,8 @@ This project attempts to detect and annotate lane lines on the road from a Video
 
 ### 1. Lane Detection Pipe Line
 
-[image2]: ./examples/lane_detection_pipeline.JPG
+![alt text][image2]
+
 
 My pipeline consisted of below steps:
 
@@ -34,7 +39,6 @@ My pipeline consisted of below steps:
 
 ### Draw lines to detect lanes
 
-![alt text][image1]
 
 ### 2. Shortcomings with your current pipeline
 
